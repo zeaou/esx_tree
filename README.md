@@ -8,5 +8,3 @@
 - hen add this to your server.cfg
 `start esx_tree`
 - done
-
-### Have Fun
