@@ -1,12 +1,12 @@
-# vrp_tree
+# esx_tree
 
-### This script is run in vRP2
-- vrp framework (https://github.com/ImagicTheCat/vRP)
+### Original Creator
+- Azusakawa (https://github.com/azusakawa)
 
-## How to use it
-- add `wood` in cfg\items
-```
-["wood"] = {"木材", "似乎可以加工", nil, 1.3},
-```
+## How to Install?
+- import database from esx_tree.sql
+- then add this to your server.cfg
+`start esx_tree`
+- Done
 
 ### Have Fun
