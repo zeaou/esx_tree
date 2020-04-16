@@ -1,12 +1,12 @@
-# esx_tree
+# 🌲esx_tree
 
-### Original Creator
+### Original Creator:
 - Azusakawa (https://github.com/azusakawa)
 
-## How to Install?
+### How to Install?
 - import database from esx_tree.sql
-- then add this to your server.cfg
+- hen add this to your server.cfg
 `start esx_tree`
-- Done
+- done
 
 ### Have Fun
